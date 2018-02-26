@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Baking App</string>
+    <string name="no_internet_message">No Internet Connection Available</string>
+    <string name="recipe_name">Nutella Pie</string>
+    <string name="no_recipe_message">No Recipes available</string>
+    <string name="ingredient">Ingredient</string>
+    <string name="ingredient_quantity_measure">TBSP</string>
+    <string name="ingredient_quantity">200</string>
+    <string name="steps_short_description">Recipe Introduction</string>
+    <string name="ingredient_tv">Ingredients</string>
+    <string name="steps_tv">Steps</string>
+    <string name="steps_description">Description</string>
+    <string name="next_button">NEXT</string>
+    <string name="previous_button">PREVIOUS</string>
+    <string name="widget_empty_tv">No Ingredients to display</string>
+</resources>
